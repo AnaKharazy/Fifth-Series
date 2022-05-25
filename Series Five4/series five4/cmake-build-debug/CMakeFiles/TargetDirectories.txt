@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Five4/series five4/cmake-build-debug/CMakeFiles/series_five4.dir
+C:/Users/USER/Desktop/Series Five4/series five4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Five4/series five4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
